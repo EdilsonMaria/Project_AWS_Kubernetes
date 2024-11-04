@@ -52,11 +52,15 @@ A solução de migração envolve a implementação de uma arquitetura na AWS, p
 
 9. O gerenciamento de permissões será feito com **AWS IAM** para garantir segurança e controle de acessos.
 
+---
+
 <img src="/imgs/arq_aws.png">
-Arquitetura da Fast Engineering na AWS
+- Arquitetura da Fast Engineering na AWS
+
+---
 
 <img src="/imgs/arq_kubernetes.png">
-Arquitetura interna do kubernetes
+- Arquitetura interna do kubernetes
 
 ---
 
